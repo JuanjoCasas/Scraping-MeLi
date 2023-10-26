@@ -1,0 +1,4 @@
+requests
+bs4
+lxml
+flask==1.1.4
